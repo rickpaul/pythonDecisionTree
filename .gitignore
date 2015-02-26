@@ -1,3 +1,12 @@
+# Deprecated Files
+deprecated/*
+
+# Compiled files
+*.pyc
+
+# iPython Notebooks — generally for testing.
+*.ipynb
+
 # OSX Specific System Files
 .DS_Store
 *.swp
